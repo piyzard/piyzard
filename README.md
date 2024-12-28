@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 💻 Passionate web developer, video editor, and esports gamer.<br>- 🌐 Love creating visually stunning websites.<br>- 🎬 Enjoy bringing stories to life through video editing.<br>- 🎮 Compete in esports tournaments and hone my gaming skills.
+💻 Passionate web developer, video editor, and esports gamer.<br>🌐 Love creating visually stunning websites.<br>🎬 Enjoy bringing stories to life through video editing.<br>🎮 Compete in esports tournaments and hone my gaming skills.
 
 
 ## 🌐 Socials:
